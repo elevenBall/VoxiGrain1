@@ -1,3 +1,4 @@
+<img src="https://github.com/elevenBall/VoxiGrain1/blob/77b897c8d189eb23d2887f83901a5a02cd603976/img.png" width="50%" height="50%"/>
 ------------------------------------------------------------
 ------------------------VoxiGrain 1-------------------------
 ------------granular voice activated synthesizer------------
